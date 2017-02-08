@@ -1,0 +1,81 @@
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+nav a:hover{ /*tous les liens au survol de la souris dans la nav*/
+    background: #fda500;  /*couleur de fond*/
+    color: #000;  /*couleur du texte*/
+}
+
+p{
+ text-align: left;
+}
+
+.container1{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float:right;
+    position: relative;
+}
+
+.container2{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float: left;
+    padding: 2%;
+}
+
+.container3{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float: left;
+    padding: 2%
+}
+
+.container4{
+    width: 35.5%;
+    margin: 4% auto;
+    float: left;
+    padding: 2%;
+}
+
+.container5{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float: left;
+    padding: 2%
+}
+
+.container6{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float: left;
+    padding: 2%
+}
+
+.container7{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float: left;
+    padding: 2%
+}
+.container8{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float: left;
+    padding: 2%
+}
+.container9{
+    width: 35.5%;
+    margin: 4% auto 2%auto;
+    float: left;
+    padding: 2%
+}
+
+.clear{
+    clear: both;
+}
